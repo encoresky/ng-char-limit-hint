@@ -1,0 +1,27 @@
+{
+  "name": "@encoreskytech/ng-char-limit-hint",
+  "version": "0.0.4",
+  "description": "To initialize the char limit feature on text input",
+  "author": "Encoresky Technologies Pvt Ltd",
+  "repository": "",
+  "keywords": [
+    "angular",
+    "Textarea char limit",
+    "Textarea char limit hint",
+    "typescript",
+    "Encoresky Technologies pvt ltd",
+    "Est",
+    "ng-char-limit-hint",
+    "text-limit",
+    "input hint", 
+    "character limit",
+    "maximum character limit"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^10.2.4",
+    "@angular/core": "^10.2.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
